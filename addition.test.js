@@ -21,3 +21,12 @@ test('2 + 2 = 4', () => {
     expect(addition(2, 2)).toBe(4)          
     
 })
+test('1 + 2 = 3', () => {
+    expect(addition(1, 2)).toBe(3)          
+    
+})
+
+test('2 + 2 = 4', () => {
+    expect(addition(2, 2)).toBe(4)          
+    
+})
